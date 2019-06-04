@@ -1,0 +1,7 @@
+.serve {
+  visibility: visible;
+  color: blue;
+}
+.flashy {
+  visibility: hidden;
+}
